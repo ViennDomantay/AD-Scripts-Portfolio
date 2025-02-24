@@ -3,7 +3,12 @@
 A collection of **sanitized PowerShell scripts** for **Active Directory automation**, including user management, group modifications, and security configurations.
 
 ## 📌 Overview  
-This repository contains various **PowerShell scripts** designed to automate and manage **Active Directory (AD)** efficiently. These scripts have been **sanitized for public sharing** and do not contain sensitive information.
+This repository contains a set of **Active Directory automation scripts** designed for:  
+✅ **User account creation & management**  
+✅ **Group membership updates**  
+✅ **Service account provisioning**  
+✅ **Security & compliance enforcement**  
+✅ **User status checks & auditing**  
 
 ## 📂 Script List  
 
