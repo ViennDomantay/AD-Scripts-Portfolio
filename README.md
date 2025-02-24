@@ -29,3 +29,12 @@ Run each script in **PowerShell with administrative privileges**. Example:
 
 ```powershell
 .\SANITIZED_AD_ACCOUNT_CREATION_SCRIPT.ps1
+
+## ⚠️ Disclaimer
+These scripts are for learning and portfolio purposes only. They do not contain confidential, proprietary, or sensitive data. Any similarities to real environments are purely coincidental.
+
+## 📄 License
+This project is licensed under the MIT License – feel free to use, modify, and improve these scripts!
+
+## ⭐ Contributing
+Want to improve these scripts? Feel free to fork the repository and submit a pull request!
